@@ -1,0 +1,1 @@
+$(function(){var mySwiper=new Swiper(".swiper-container",{autoplay:2000,loop:true,effect:"slide",nextButton:".swiper-button-next",prevButton:".swiper-button-prev"});new WOW().init()});

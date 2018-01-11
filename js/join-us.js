@@ -1,0 +1,1 @@
+$(function(){new WOW().init();var mySwiper=new Swiper(".swiper-container",{loop:true,nextButton:".swiper-button-next",prevButton:".swiper-button-prev",})});
